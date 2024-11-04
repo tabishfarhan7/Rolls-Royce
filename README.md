@@ -14,6 +14,6 @@
 
 ![rolls-royce1](https://github.com/tabishfarhan7/Rolls-Royce/blob/main/assets/Screenshot%202024-11-02%20222627.png)
 
-![rolls-royce2](https://github.com/tabishfarhan7/Rolls-Royce-/blob/main/Screenshot%202024-11-02%20222648.png)
+![rolls-royce2](https://github.com/tabishfarhan7/Rolls-Royce/blob/main/assets/Screenshot%202024-11-02%20222648.png)
 
 
